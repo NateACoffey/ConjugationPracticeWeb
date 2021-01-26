@@ -1,4 +1,4 @@
-# ConjugationPracticeWeb
+# Conjugation Practice (Web version)
 
 Web version of Conjugation Project using Spring, Spring Boot, and MySQL.
 
