@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+
+
+
+* {
+	font-size: 40px;
+}
+
+
+
+#textbox{
+	min-width: 200px;
+	font-size:20;
+}
+
+
+
