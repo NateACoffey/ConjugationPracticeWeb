@@ -1,7 +1,8 @@
 package io.github.nateacoffey.ConjugationPracticeWeb.Model;
 
-import io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages.JapaneseRepository;
 import io.github.nateacoffey.ConjugationPracticeWeb.Model.Util.LinkedListCustom;
+import io.github.nateacoffey.ConjugationPracticeWeb.Repository.JapaneseRepository;
+
 
 public class TextOutput {
 	

@@ -1,4 +1,4 @@
-package io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages;
+package io.github.nateacoffey.ConjugationPracticeWeb.Repository;
 
 import java.util.List;
 
@@ -13,7 +13,6 @@ public interface JapaneseRepository extends CrudRepository<Japanese, String> {
 	
 	@Query(value = "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'japanese'", nativeQuery = true)
     List<String> getAllColumns();
-	
 	
 	
 }

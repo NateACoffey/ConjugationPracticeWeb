@@ -1,4 +1,4 @@
-package io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages;
+package io.github.nateacoffey.ConjugationPracticeWeb.Repository;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

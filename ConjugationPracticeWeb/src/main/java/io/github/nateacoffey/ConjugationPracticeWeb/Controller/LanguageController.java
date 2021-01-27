@@ -9,10 +9,10 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages.JapaneseRepository;
 import io.github.nateacoffey.ConjugationPracticeWeb.Model.CompareInputToAnswer;
 import io.github.nateacoffey.ConjugationPracticeWeb.Model.TextOutput;
 import io.github.nateacoffey.ConjugationPracticeWeb.Model.Util.LinkedListCustom;
+import io.github.nateacoffey.ConjugationPracticeWeb.Repository.JapaneseRepository;
 
 
 @Controller

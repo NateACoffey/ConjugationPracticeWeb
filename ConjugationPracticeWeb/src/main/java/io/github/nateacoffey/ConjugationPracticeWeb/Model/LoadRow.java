@@ -2,8 +2,8 @@ package io.github.nateacoffey.ConjugationPracticeWeb.Model;
 
 import java.util.List;
 
-import io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages.Japanese;
-import io.github.nateacoffey.ConjugationPracticeWeb.Controller.Languages.JapaneseRepository;
+import io.github.nateacoffey.ConjugationPracticeWeb.Repository.Japanese;
+import io.github.nateacoffey.ConjugationPracticeWeb.Repository.JapaneseRepository;
 
 public class LoadRow {
 	
