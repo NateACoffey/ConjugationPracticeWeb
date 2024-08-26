@@ -2,8 +2,8 @@
 
 Web version of Conjugation Project using Spring, Spring Boot, and MySQL.
 
-### Requirements:
-* Hiragana keyboard input (Japanese)
+### Try now!
+* https://nateacoffey.github.io/projects/ConjugationPractice/index.html
 
 ### Japanese verb tenses include: 
 * present polite
